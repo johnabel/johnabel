@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm a scientist trained in machine learning, systems biology, and chemical engineering. I currently manage a small ML and engineering team at Repertoire (https://github.com/cogentherapeutics). We're working on engineering the immune synapse via machine learning. Previously I was at {PathAI, MIT, MGH, Harvard}.
+I'm a scientist trained in machine learning, systems biology, and chemical engineering. I currently manage a small ML and engineering team at Repertoire (https://github.com/cogentherapeutics), we're working on engineering the immune synapse. Previously I was at {PathAI, MIT, MGH, Harvard}.
 
 Places I exist online are:
 - here, of course
