@@ -4,8 +4,8 @@ I'm a scientist trained in machine learning, systems biology, and chemical engin
 
 Places I exist online are:
 - here, of course
-- twitter/gram (@jxhnabel)
-- publications (https://scholar.google.com/citations?user=1AYZ0IAAAAAJ)
+- Google scholar (https://scholar.google.com/citations?user=1AYZ0IAAAAAJ)
+- social media (usually @jxhnabel)
 - email (jhabel01-at-gmail.com)
 
 Outside of work you can generally find me 🧑‍🧑‍🧒 ⛷ 🛫  🤘
